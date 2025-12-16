@@ -1,0 +1,21 @@
+# Web Framework for Dashboard
+streamlit==1.29.0
+
+# Database Connectors
+psycopg2-binary==2.9.9
+pymongo==4.6.1
+mysql-connector-python==8.2.0
+sqlalchemy==2.0.25
+
+# Data Manipulation and Analysis
+pandas==2.1.4
+numpy==1.26.3
+
+# Visualization Libraries
+matplotlib==3.8.2
+plotly==5.18.0
+seaborn==0.13.1
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
