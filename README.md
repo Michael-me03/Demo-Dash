@@ -1,6 +1,6 @@
 # Cost Flow Analysis Dashboard
 
-This project is a demonstration case inside a Techathon for students to explore **Dash** as a powerful plotting and web application framework for Python. It illustrates a navigation use case for analyzing multi-dimensional cost flows within a large organization (e.g., Deutsche Bank). Al Data an Insights in this Dashboard application are only created by using prompt engineering with GitHub copilot claude sonnet 4.5 model.
+This project is a demonstration case inside a Techathon for students to explore **Dash** as a powerful plotting and web application framework for Python. It illustrates a navigation use case for analyzing multi-dimensional cost flows within a large organization (e.g., Deutsche Bank). All dummy data and columns structure got created by a current LLM Tool to create a dataset which can reflect the cost flow inside a large corporation.
 
 ## Overview
 
